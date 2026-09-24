@@ -322,7 +322,7 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ### 03 — PDF 1 Password Recovery
 
-![PDF 1 Password Recovery](04-johnny-pdf1.png)
+![PDF 1 Password Recovery](pdf1.PNG)
 
 ### 04 — PDF 2 Password Recovery
 
