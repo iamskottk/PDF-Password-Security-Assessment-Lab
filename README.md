@@ -322,7 +322,7 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ### 03 — PDF 3 Hash Extraction
 
-![PDF 3 Hash Extraction](03-hash-pdf3.png)
+![PDF 3 Hash Extraction](hash3.PNG)
 
 ### 04 — PDF 1 Password Recovery
 
