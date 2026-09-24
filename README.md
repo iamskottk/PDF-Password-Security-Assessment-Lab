@@ -326,7 +326,7 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ### 04 — PDF 2 Password Recovery
 
-![PDF 2 Password Recovery](05-johnny-pdf2.png)
+![PDF 2 Password Recovery](pdf3.PNG)
 
 ### 05 — PDF 1 Networkwalks Validation
 
