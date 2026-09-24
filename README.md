@@ -334,7 +334,7 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ### 06 — PDF 3 Networkwalks Validation
 
-![PDF 3 Networkwalks Validation](09-networkwalks-pdf3.png)
+![PDF 3 Networkwalks Validation](nt3.PNG)
 
 ---
 
