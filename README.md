@@ -314,7 +314,7 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ### 01 — PDF 1 Hash Extraction
 
-![PDF 1 Hash Extraction](01-hash-pdf1.png)
+![PDF 1 Hash Extraction](hash1.PNG)
 
 ### 02 — PDF 2 Hash Extraction
 
