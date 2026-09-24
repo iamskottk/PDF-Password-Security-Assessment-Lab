@@ -324,19 +324,15 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ![PDF 1 Password Recovery](pdf1.PNG)
 
-### 04 — PDF 2 Password Recovery
+### 04 — PDF 3 Password Recovery
 
 ![PDF 2 Password Recovery](pdf3.PNG)
 
 ### 05 — PDF 1 Networkwalks Validation
 
-![PDF 1 Networkwalks Validation](07-networkwalks-pdf1.png)
+![PDF 1 Networkwalks Validation](nt1.PNG)
 
-### 06 — PDF 2 Networkwalks Validation
-
-![PDF 2 Networkwalks Validation](08-networkwalks-pdf2.png)
-
-### 07 — PDF 3 Networkwalks Validation
+### 06 — PDF 3 Networkwalks Validation
 
 ![PDF 3 Networkwalks Validation](09-networkwalks-pdf3.png)
 
