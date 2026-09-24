@@ -316,35 +316,27 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ![PDF 1 Hash Extraction](hash1.PNG)
 
-### 02 — PDF 2 Hash Extraction
-
-![PDF 2 Hash Extraction](02-hash-pdf2.png)
-
-### 03 — PDF 3 Hash Extraction
+### 02 — PDF 3 Hash Extraction
 
 ![PDF 3 Hash Extraction](hash3.PNG)
 
-### 04 — PDF 1 Password Recovery
+### 03 — PDF 1 Password Recovery
 
 ![PDF 1 Password Recovery](04-johnny-pdf1.png)
 
-### 05 — PDF 2 Password Recovery
+### 04 — PDF 2 Password Recovery
 
 ![PDF 2 Password Recovery](05-johnny-pdf2.png)
 
-### 06 — PDF 3 Password Recovery
-
-![PDF 3 Password Recovery](06-johnny-pdf3.png)
-
-### 07 — PDF 1 Networkwalks Validation
+### 05 — PDF 1 Networkwalks Validation
 
 ![PDF 1 Networkwalks Validation](07-networkwalks-pdf1.png)
 
-### 08 — PDF 2 Networkwalks Validation
+### 06 — PDF 2 Networkwalks Validation
 
 ![PDF 2 Networkwalks Validation](08-networkwalks-pdf2.png)
 
-### 09 — PDF 3 Networkwalks Validation
+### 07 — PDF 3 Networkwalks Validation
 
 ![PDF 3 Networkwalks Validation](09-networkwalks-pdf3.png)
 
